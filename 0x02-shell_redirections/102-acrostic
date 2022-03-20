@@ -1,1 +1,2 @@
-clear
+#!/bin/bash
+cut -C 1 | past -S -d ''
